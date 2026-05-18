@@ -21,6 +21,9 @@ Deployed to Vercel. Keep the build compatible with Vercel's SvelteKit support
 - **Show the source.** Each example displays its own code alongside the live
   result, so visitors can read what makes it work.
 - **Keep it simple.** Minimal dependencies. No heavy frameworks layered on top.
+- **Mobile friendly.** Examples should work well on mobile wherever possible.
+  Exceptions are allowed for examples that genuinely only work well in a
+  desktop browser.
 
 ## Conventions
 
